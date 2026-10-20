@@ -1,7 +1,7 @@
 # Hi, saya Nurain Batrisya 👋
 
 ## 👩‍💻 Mengenai Saya
-- 🎓 Saya sedang belajar pembangunan perisian / teknologi maklumat.
+- 🎓 Saya sedang belajar **Data Engineering**
 - 🔭 Saya kini sedang fokus memperkasakan kemahiran **GitHub** 
 
 ---
@@ -14,3 +14,9 @@
 
 ## ⚡ Fakta Menarik
 - Saya suka matcha 🍵 
+
+---
+
+## 📬 Hubungi Saya
+- Linkedln : https://www.linkedin.com/in/nurain-batrisya
+- Email : n.batrisyajamil@gmail.com
