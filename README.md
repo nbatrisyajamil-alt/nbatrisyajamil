@@ -18,5 +18,5 @@
 ---
 
 ## 📬 Hubungi Saya
-- Linkedln : https://www.linkedin.com/in/nurain-batrisya
+- Linkedln : https://www.linkedin.com/in/nurain-batrisya-600681217
 - Email : n.batrisyajamil@gmail.com
